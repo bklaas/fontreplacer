@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<extensions>
+
+  <details>
+	<title lang="EN">Ben Klaas community plugins/applets</title>
+  </details>	
+
+  <applets>
+
+	<applet name="FontReplacer" version="1.0" minTarget="7.3" maxTarget="7.*">
+	  <title lang="EN">Font Replacer</title>
+	  <desc  lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
+	  <url>http://fontreplacer.googlecode.com/files/FontReplacer.zip</url>
+	  <email>mcstayinskool@yahoo.com</email>
+	  <sha>7ff82da77d82485c3976a9864dcd1f64bfa55378</sha>
+	</applet>
+
+  </applets>
+
+</extensions>
