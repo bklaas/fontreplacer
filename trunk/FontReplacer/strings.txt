@@ -1,0 +1,70 @@
+#
+# The two letter codes are defined by ISO 639-1
+# http://en.wikipedia.org/wiki/List_of_ISO_639_codes
+
+
+FONT_REPLACER
+	EN	Font Replacer
+
+REPLACE_FONT
+	EN	Replace Font
+
+REPLACE_FONT_HELP
+	EN	This applet replaces the Squeezebox's default FreeSans TTF files with a merge of FreeSans + missing characters including CJK (Chinese, Japanese, Korean). Note that after installing the new font, your Squeezebox will reboot automatically.\n\nUSE AT YOUR OWN RISK.\n\nThe merged font files are 6-8x larger than the standard FreeSans used on Squeezebox, therefore puts a greater strain on memory resources.
+
+RESET_CANCEL
+	CS	Storno
+	DA	Annuller
+	DE	Abbrechen
+	EN	Cancel
+	ES	Cancelar
+	FI	Peruuta
+	FR	Annuler
+	IT	Annulla
+	NL	Annuleren
+	NO	Avbryt
+	PL	Anuluj
+	RU	Отмена
+	SV	Avbryt
+
+RESET_CONTINUE
+	CS	Pokračovat
+	DA	Fortsæt
+	DE	Weiter
+	EN	Continue
+	ES	Continuar
+	FI	Jatka
+	FR	Continuer
+	IT	Continua
+	NL	Verdergaan
+	NO	Fortsett
+	PL	Kontynuuj
+	RU	Продолжить
+	SV	Fortsätt
+
+RESET_RESETTING
+	CS	\nRestartování
+	DA	Genstarter
+	DE	Neustart
+	EN	Restarting
+	ES	Reiniciando
+	FI	Käynnistetään uudelleen
+	FR	Redémarrage
+	IT	Riavvio
+	NL	Bezig met opnieuw starten
+	NO	Starter på nytt
+	PL	Restartowanie
+	RU	Перезапуск
+	SV	Startar om
+
+RESET_RESETTING_SQUEEZEPLAY
+	EN	Please Manually Restart
+COPIED_FONTS
+	EN	Fonts Copied
+
+CONTINUE_HELP
+	EN	Select Continue to copy fonts and restart your Squeezebox
+
+CONTINUE_HELP_SQUEEZEPLAY
+	EN	Select Continue to copy fonts.\nNote: when using desktop squeezeplay you will need to manually restart the application for the font change to take effect.
+
