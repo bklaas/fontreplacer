@@ -1,0 +1,1 @@
+This is a Lua applet for Squeezebox. It replaces the default FreeSans font file in Squeezeplay with a merged font file that uses FreeSans + DroidSansFallback. The merged font contains e.g. CJK characters for a fuller set of available characters on the Squeezebox products.
