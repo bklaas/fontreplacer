@@ -8,7 +8,7 @@
 
   <applets>
 
-	<applet name="FontReplacer" version="1.1" minTarget="7.3" maxTarget="7.*">
+	<applet name="FontReplacer" version="1.1" minTarget="7.3" maxTarget="8.*">
 	  <title lang="EN">Font Replacer</title>
 	  <desc  lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
 	  <url>https://github.com/bklaas/fontreplacer/archive/master.zip</url>
