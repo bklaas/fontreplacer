@@ -11,9 +11,9 @@
 	<applet name="FontReplacer" version="1.4" minTarget="7.3" maxTarget="8.*">
 	  <title lang="EN">Font Replacer</title>
 	  <desc  lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
-	  <url>https://github.com/bklaas/fontreplacer/archive/master.zip</url>
+	  <url>http://downloads.nixda.ch/FontReplacer-1.4a.zip</url>
 	  <email>mcstayinskool@yahoo.com</email>
-	  <sha>90c65bba89fbe9cb2715056981c4080163e2ad51</sha>
+	  <sha>622cd1c113973ab5f1143ecc6343988baa0da3fb</sha>
 	</applet>
 
   </applets>
