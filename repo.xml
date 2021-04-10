@@ -13,7 +13,7 @@
 	  <desc  lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
 	  <url>http://downloads.nixda.ch/FontReplacer-1.4a.zip</url>
 	  <email>mcstayinskool@yahoo.com</email>
-	  <sha>622cd1c113973ab5f1143ecc6343988baa0da3fb</sha>
+      <sha>46fcd68dbd04c44468349fda3e27e230cc532b37</sha>
 	</applet>
 
   </applets>
