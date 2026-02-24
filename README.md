@@ -1,5 +1,6 @@
 # fontreplacer
 
+# THIS REPO IS ARCHIVED, fontreplacer now housed at https://github.com/LMS-Community/applet-FontReplacer
 This is a Squeezebox Applet, which will only work on the following SqueezeOS-based Squeezeboxes:
 * Squeezebox Radio
 * Squeezebox Touch
